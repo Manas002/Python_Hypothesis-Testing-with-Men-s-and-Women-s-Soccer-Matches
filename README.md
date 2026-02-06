@@ -25,3 +25,17 @@ Ha : The mean number of goals scored in women's international soccer matches is 
 **result_dict = {"p_val": p_val, "result": result}**
 
 where p_val is the p-value and result is either the string "fail to reject" or "reject", depending on the result of the test.
+
+**How to approach the project :**
+
+1. Exploratory data analysis
+
+2. Filtering the data
+
+3. Choosing the correct hypothesis test
+
+4. Performing the hypothesis test
+
+5. Interpreting the result of the hypothesis test
+
+
