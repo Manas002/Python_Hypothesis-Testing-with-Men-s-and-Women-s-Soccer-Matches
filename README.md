@@ -38,4 +38,7 @@ where p_val is the p-value and result is either the string "fail to reject" or "
 
 5. Interpreting the result of the hypothesis test
 
+<img width="1197" height="85" alt="image" src="https://github.com/user-attachments/assets/0a892b62-3e89-4d23-9285-dd23e91da007" />
+
+
 
